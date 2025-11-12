@@ -5,7 +5,8 @@ python-dotenv
 streamlit-mermaid
 langchain-core
 markdown-it-py
-st_mermaid
+streamlit-mermaid
 re
 json
 os
+
