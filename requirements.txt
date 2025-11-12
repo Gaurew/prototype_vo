@@ -6,8 +6,6 @@ streamlit-mermaid
 langchain-core
 markdown-it-py
 streamlit-mermaid
-re
-json
-os
+
 
 
