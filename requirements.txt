@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-google-genai
+python-dotenv
+streamlit-mermaid
+langchain-core
+markdown-it-py
+st_mermaid
+re
+json
+os
